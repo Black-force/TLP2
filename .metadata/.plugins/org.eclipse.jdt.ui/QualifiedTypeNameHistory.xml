@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="Vitor.alex.Repository.AlunoRepository"/>
+    <fullyQualifiedTypeName name="Vitor.alex.Repository.PapelRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="Vitor.alex.modelo.Aluno"/>
+    <fullyQualifiedTypeName name="Vitor.alex.modelo.Papel"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+</qualifiedTypeNameHistroy>

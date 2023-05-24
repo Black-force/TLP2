@@ -1,0 +1,5 @@
+package Vitor.alex.Repository;
+
+public interface AlunoRepository {
+
+}
