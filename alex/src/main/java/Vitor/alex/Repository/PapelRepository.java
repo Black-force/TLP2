@@ -8,5 +8,5 @@ import Vitor.alex.modelo.Papel;
 @Repository
 public interface PapelRepository extends JpaRepository<Papel, Long> {
 	Papel findByPapel(String papel);
-	
+
 }

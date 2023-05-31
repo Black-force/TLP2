@@ -130,6 +130,9 @@ public class Aluno {
 	public void setCurso(String curso) {
 		Curso = curso;
 	}
+    public Object getPassword() {
+        return null;
+    }
 	
 	
 }
